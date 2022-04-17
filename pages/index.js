@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="This is my website." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          I have no idea how to do this, I've never used Github, no idea what to do, but one day this will be an epic site :)
         </p>
       </main>
 
